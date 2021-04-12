@@ -7,4 +7,4 @@
 * The Illustrated BERT, ELMo, and co. <http://jalammar.github.io/illustrated-bert/>  
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL-2019. [paper](https://www.aclweb.org/anthology/P19-1285.pdf)
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding. NIPS-2019. [paper](https://papers.nips.cc/paper/2019/hash/dc6a7e655d7e5840e66733e9ee67cc69-Abstract.html)
-* XLNet运行机制及和Bert的异同比较 [[知乎]](https://zhuanlan.zhihu.com/p/70257427)
+* XLNet运行机制及和Bert的异同比较    [[知乎]](https://zhuanlan.zhihu.com/p/70257427)
