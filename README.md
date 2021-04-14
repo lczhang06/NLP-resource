@@ -1,6 +1,7 @@
 # NLP-resource
 * CS229: Machine Learning. <http://cs229.stanford.edu/>
 * CS224N: Natural Language Processing with Deep Learning. <http://web.stanford.edu/class/cs224n/>  
+* 李宏毅-Deep Learning and Human Language Processing. <https://www.bilibili.com/video/BV1RE411g7rQ>
 * Attention is All you Need. (Transformer) NIPS-2017. [paper](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 * The Illustrated Transformer: <http://jalammar.github.io/illustrated-transformer/>  
 * Transformer模型深度解读 [[微信](https://mp.weixin.qq.com/s/Ri0YnHByuXy-2E0rQRsg4w)]
