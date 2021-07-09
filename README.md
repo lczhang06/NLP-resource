@@ -3,6 +3,7 @@
 * CS224N: Natural Language Processing with Deep Learning. <http://web.stanford.edu/class/cs224n/>  
 * COS 584: Advanced Natural Language Processing. <https://princeton-nlp.github.io/cos484/cos584.html>
 * 李宏毅-Deep Learning for Human Language Processing. <https://www.bilibili.com/video/BV1RE411g7rQ>
+* NLP入门到精通 <https://www.bilibili.com/video/BV17K4y1W7yb?share_source=copy_web>
 * Attention is All you Need. (Transformer) NIPS-2017. [paper](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 * The Illustrated Transformer: <http://jalammar.github.io/illustrated-transformer/>  
 * Transformer模型深度解读 [[微信](https://mp.weixin.qq.com/s/Ri0YnHByuXy-2E0rQRsg4w)]
