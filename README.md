@@ -19,4 +19,7 @@
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL-2019. [paper](https://www.aclweb.org/anthology/P19-1285.pdf)
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding. NIPS-2019. [paper](https://papers.nips.cc/paper/2019/hash/dc6a7e655d7e5840e66733e9ee67cc69-Abstract.html)
 * XLNet运行机制及和Bert的异同比较    [[知乎](https://zhuanlan.zhihu.com/p/70257427)]
+* Unified Language Model Pre-training for Natural Language Understanding and Generation. NurIPS-2019. [paper](https://dl.acm.org/doi/pdf/10.5555/3454287.3455457)
+* UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training. ICML-2020. [paper](http://proceedings.mlr.press/v119/bao20a.html)
+* GialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation. ACL-2020. [paper](https://aclanthology.org/2020.acl-demos.30.pdf)
 * 史上最细节的自然语言处理NLP/Transformer/BERT/Attention面试问题与答案  [[知乎](https://zhuanlan.zhihu.com/p/348373259)]
