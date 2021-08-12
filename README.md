@@ -9,7 +9,7 @@
 ### 参考书
 《自然语言处理入门》, 何晗, 人民邮电出版社
 
-### 一些链接
+### 一些论文&博客
 * Attention is All you Need. (Transformer) NIPS-2017. [paper](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 * The Illustrated Transformer: <http://jalammar.github.io/illustrated-transformer/>  
 * Transformer模型深度解读 [[微信](https://mp.weixin.qq.com/s/Ri0YnHByuXy-2E0rQRsg4w)]
